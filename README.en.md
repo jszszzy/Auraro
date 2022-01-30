@@ -1,36 +1,44 @@
 # Auraro
 
 #### Description
-为了不重复造轮子，通过高密度M.2接口设计板卡，欢迎各位复现，提出意见，更欢迎推出不同芯片的版本、不同功能的底板。
+​	For not reinvent the wheel，I using the M. 2 interface to design a PCB. 
+
+​	By using the  M. 2 interface you can  design many chips ' coreboard.Not only the STM32.
+
+​	You are welcome to reappear and put forward your opinions. You are also welcome to launch different chip versions and backplanes with different functions.
 
 #### Software Architecture
-Software architecture description
 
-#### Installation
+- KiCAD 6.0 [ PCB ]
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- Blender 3.0 [ 3D  ]
 
-#### Instructions
+#### Hardware Architecture
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+M. 2 / NGFF four models A, B, E, M, B + M.
 
-#### Contribution
+It is recommended that the design comply with ngff specification, so as to realize the compatibility between boards.
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+NGFF specification documents: see the docs directory.
 
+We support chips:
 
-#### Gitee Feature
+- STM32-F4 (All_Suppoort) -- NGFF_2230
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- ESP-C3 -- NGFF_2230
+
+  STM32-F4：
+
+  ![1](README.en.assets/1.png)
+
+  STM32-F4：
+
+  ![3](README.en.assets/3.png)
+
+  
+
+  ### Details
+
+  If you have any questions , you can send email  1342762864@qq.com.
+
+  ​	At this stage, because the two boards are just designed, they have not been fully tested. In order for each board to work perfectly, a complete test process will be developed, and then you can be submitted after passing the test.
