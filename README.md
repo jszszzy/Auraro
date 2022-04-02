@@ -18,22 +18,37 @@ NGFF 规范文档：见Docs目录下。
 
 现有芯片支持：
 
-- STM32-F4 (All_Suppoort) -- NGFF_2230
+- STM32-LQFP48(All_Suppoort) -- NGFF_2230
 - ESP-C3 -- NGFF_2230
+- STM32-LQFP32(All_Suppoort) -- NGFF_2220
 
 #### 使用说明
 
 ​	 现阶段因为两个板子都是刚刚打板，没有进行完全测试，为了每个板子都能完美正常工作，会出一个完备测试的流程，通过测试即可提交。
 
+目前状态：
+
+测试底板已更新，typec正反插可切换USB和串口通信。
+
 目前已有板卡展示：
 
-STM32-F4：
+STM32_LQFP64：
 
 ![1](README.assets/1.png)
 
-STM32-F4：
+STM32_LQFP64：
 
 ![3](README.assets/3.png)
+
+STM32_LQFP32：
+
+![5](README.assets/5.png)
+
+![6](README.assets/6.png)
+
+测试底板：
+
+![7](README.assets/7.png)
 
 #### 参与贡献
 
