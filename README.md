@@ -5,7 +5,7 @@
 
 #### 软件使用推荐
 
-KiCAD 6.0 [ PCB ]
+KiCAD 6.0 [ PCB ]:[下载地址](https://www.kicad.org/)
 
 Blender 3.0 [ 3D  ]
 
