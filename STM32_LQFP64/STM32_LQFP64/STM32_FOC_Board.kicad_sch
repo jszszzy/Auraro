@@ -2522,7 +2522,7 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 71611593-9c84-43c4-a409-bc3baeeb3f21)
   )
-  (text "STM32F401xx\nSTM32F410xx\nSTM32F411xx\nSTM32F412xx\nSTM32F413xx\nSTM32F423xx\nSTM32F446xx  :\n"
+  (text "STM32F401xx\nSTM32F410xx\nSTM32F411xx\nSTM32F412xx\nSTM32F413xx\nSTM32F423xx\nSTM32F446xx\nSTM32L431xx  :\n"
     (at 121.92 167.64 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8e3ebaeb-46e3-4d82-9340-c7f330c37873)
