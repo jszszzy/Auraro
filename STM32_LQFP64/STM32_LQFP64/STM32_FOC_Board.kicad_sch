@@ -2498,7 +2498,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1a269878-cd0d-4c4d-b345-0d940c45749e)
   )
-  (text "STM32F405/F415 :" (at 120.65 185.42 0)
+  (text "STM32F405/F415\nSTM32L051:" (at 120.65 187.198 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 29bcc5c2-3001-4bb0-a117-2b8f3970fc0a)
   )
